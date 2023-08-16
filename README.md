@@ -2,14 +2,18 @@
 
 Hi. My name is Ken Stevens. I'm a solutions architect, which means I find solutions to your buiness needs, usually involving an IT solution.
 
-# Technolgies I know
+## Technolgies I know
 
 * c++
 * Python
 * go
 * Rust
 * COBOL
+* HTML
+* Javascript
 * 11ty (eleventy)
+  * yaml
+  * nunjucks
 * Tailwindcss
 
 I have over 35 year experience in the Computer industry, I am also a writer, and I love to learn new things. So contact me. My email is kensarco120353@gmail.com.
