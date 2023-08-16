@@ -20,3 +20,7 @@ I have over 35 year experience in the Computer industry, I am also a writer, and
 
 I currently live in the Philippines so all work offered I must be able to do remotely.
 
+## My Blog
+
+I also author a blog. If you want to read about my life in the Philippines and maybe some devotions; I'll have both on [my blog](https://kens-blog-two.vercel.app).
+
